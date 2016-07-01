@@ -1,9 +1,9 @@
 {
-    "name": "coderockr/php-query",
+    "name": "boing6000/php-query",
     "description": "phpQuery",
     "keywords": ["phpQuery", "lib"],
     "type": "library",
-    "homepage": "https://github.com/coderockr/phpQuery",
+    "homepage": "https://github.com/boing6000/phpQuery",
     "license": "Mit",
     "authors": [
         {
